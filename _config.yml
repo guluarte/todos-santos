@@ -5,7 +5,7 @@ name: Todos Santos
 description: This is a sample Jekyll Blog.
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Your Name
+author: Rodolfo Guluarte
 
 # Your email if you want it to be linked on the contact page
 author_email: rodolfo@guluarte.com
@@ -21,7 +21,7 @@ category_dir: /
 baseurl:
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://yourdomain.com/
+url: http://todossantos.guluarte.com/
 
 #### Under the Hood Stuff #####
 
